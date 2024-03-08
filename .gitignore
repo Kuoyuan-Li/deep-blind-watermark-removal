@@ -1,2 +1,5 @@
 __pycache__/
 *.tar
+.idea
+/__pycache__/
+venv/
